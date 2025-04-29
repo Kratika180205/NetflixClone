@@ -23,7 +23,7 @@ A simple **Netflix Clone** built using **HTML**, **CSS**, and **JavaScript**. Th
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/Kratika180205/NetflixClone/upload/main
+   https://github.com/Kratika180205/NetflixClone.git
    
 
 
